@@ -2,7 +2,9 @@
 
 https://dsalisbury1141.github.io/Plotly-Test/
 
-<il>This was created to test the Highub deployment with plotly interactive graph</il>
+### This was created to test the Github deployment with plotly interactive graph using movie database
+
+![imageAlt](https://github.com/dsalisbury1141/Plotly-Test/blob/master/PlotlyTest.PNG)
 
 
 How to run my code:
